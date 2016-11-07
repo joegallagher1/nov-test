@@ -1,0 +1,15 @@
+{
+	"appname": "nov test",
+	"scope": "FullAccess",
+	"clientid": "9EA0140F-4B97-4FFE-9121-AD13666D9CAC",
+	"buyerid": "buyer",
+	"catalogid": "buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
